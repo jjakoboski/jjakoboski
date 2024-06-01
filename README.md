@@ -9,7 +9,7 @@
 
  📝 A list of my published research is here: [https://www.researchgate.net/profile/J-K-Jakoboski](https://www.researchgate.net/profile/J-K-Jakoboski) and I'm also passionate about science communication: [https://theconversation.com/profiles/julie-jakoboski-1417491](https://theconversation.com/profiles/julie-jakoboski-1417491)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jjakoboski&" alt="jjakoboski" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jjakoboski&" alt="jjakoboski" /></p>
 
 <!--
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
