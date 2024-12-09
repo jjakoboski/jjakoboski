@@ -7,7 +7,7 @@
  🔭 I’m currently the lead of [the Mangōpare temperature and depth sensor programme](https://www.moanaproject.org/temperature-sensors) and the Project Manager of the [Moana Project](https://www.moanaproject.org/).
 
 
- 📝 A list of my published research is here: [https://www.researchgate.net/profile/J-K-Jakoboski](https://www.researchgate.net/profile/J-K-Jakoboski) and I'm also passionate about technical communication with diverse audiences: [https://theconversation.com/profiles/julie-jakoboski-1417491](https://theconversation.com/profiles/julie-jakoboski-1417491)
+ 📝 A list of my published research is here: [https://www.researchgate.net/profile/J-K-Jakoboski](https://www.researchgate.net/profile/J-K-Jakoboski) and I'm also passionate about communicating technical and scientific information with diverse audiences: [https://theconversation.com/profiles/julie-jakoboski-1417491](https://theconversation.com/profiles/julie-jakoboski-1417491)
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jjakoboski&" alt="jjakoboski" /></p>
 
