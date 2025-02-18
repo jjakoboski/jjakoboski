@@ -1,13 +1,13 @@
 <h1 align="center">JK Jakoboski</h1>
-<h3 align="center">Project manager, data scientist, oceanographer</h3>
+<h3 align="center">Data scientist, oceanographer, project manager</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jjakoboski&label=Profile%20views&color=0e75b6&style=flat" alt="jjakoboski" /> </p>
 
 
- 🔭 I’m currently the lead of [the Mangōpare temperature and depth sensor programme](https://www.moanaproject.org/temperature-sensors) and the Project Manager of the [Moana Project](https://www.moanaproject.org/).
+ 🔭 I was most recently the lead of [the Mangōpare temperature and depth sensor programme](https://www.moanaproject.org/temperature-sensors) as an oceanographic data scientist and the Project Manager of the [Moana Project](https://www.moanaproject.org/).  Currently, I am helping to secure the future of the sensor programme as of trustee of the Aotearoa Moana Observing System.
 
 
- 📝 A list of my published research is here: [https://www.researchgate.net/profile/J-K-Jakoboski](https://www.researchgate.net/profile/J-K-Jakoboski) and I'm also passionate about communicating technical and scientific information with diverse audiences: [https://theconversation.com/profiles/julie-jakoboski-1417491](https://theconversation.com/profiles/julie-jakoboski-1417491)
+ 📝 A list of my published research is here: [https://www.researchgate.net/profile/J-K-Jakoboski](https://www.researchgate.net/profile/J-K-Jakoboski) and I'm also passionate about drawing insights from data and communicating technical and scientific information with diverse audiences: [https://theconversation.com/profiles/julie-jakoboski-1417491](https://theconversation.com/profiles/julie-jakoboski-1417491)
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jjakoboski&" alt="jjakoboski" /></p>
 
