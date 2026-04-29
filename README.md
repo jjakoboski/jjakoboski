@@ -1,5 +1,5 @@
 <h1 align="center">JK Jakoboski</h1>
-<h3 align="center">Data scientist, oceanographer, project manager</h3>
+<h3 align="center">Data scientist, oceanographer, research project and team lead, project manager</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jjakoboski&label=Profile%20views&color=0e75b6&style=flat" alt="jjakoboski" /> </p>
 
